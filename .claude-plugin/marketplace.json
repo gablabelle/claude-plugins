@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "mcp-kanban",
+      "name": "kanban",
       "description": "AI-powered Kanban board for Claude Code. Plans work into stories and subtasks, tracks progress as Claude codes, and keeps the board updated in real-time.",
       "source": {
         "source": "git-subdir",
